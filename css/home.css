@@ -1,0 +1,28 @@
+body{
+    background-color: #24353F !important;
+}
+
+
+
+*{
+    list-style: none;
+    text-decoration: none !important;
+}
+
+#logOut{
+    width: 50px;
+    height: 50px;
+    color: black;
+}
+
+#con{
+    top:250px ;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 400px;
+    height: 300px;
+    background-color: #24353F;
+    box-shadow: black -5px 2px 50px -9px;
+    padding: 80px;
+
+}

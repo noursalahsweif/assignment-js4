@@ -1,0 +1,16 @@
+body{
+    background-color: #24353F;
+}
+
+.login-form{
+    background-color: #24353F;
+    box-shadow: black -5px 2px 50px -9px;
+}
+
+.form-control{
+    background-color: #24353F !important;
+}
+*{
+    list-style: none;
+    text-decoration: none !important;
+}

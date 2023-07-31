@@ -1,0 +1,16 @@
+body{
+    background-color: #24353F !important;
+}
+
+.sign-form{
+    background-color: #24353F;
+    box-shadow: black -5px 2px 50px -9px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+*{
+    list-style: none;
+    text-decoration: none !important;
+}
